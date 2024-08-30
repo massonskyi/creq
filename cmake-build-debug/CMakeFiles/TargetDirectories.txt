@@ -1,0 +1,3 @@
+/home/user064/CLionProjects/httplibtest/cmake-build-debug/CMakeFiles/httplibtest.dir
+/home/user064/CLionProjects/httplibtest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user064/CLionProjects/httplibtest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
